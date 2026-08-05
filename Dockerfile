@@ -1,4 +1,4 @@
-FROM node:18-alpine
+FROM node:25-alpine
 
 LABEL maintainer="计堡"
 LABEL description="HomePage - 个人主页系统"
